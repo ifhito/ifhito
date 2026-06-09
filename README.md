@@ -19,11 +19,11 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
+- 🟢 **1 commit** を [`ifhito/ifhito`](https://github.com/ifhito/ifhito) に push
 - ✨ 新しい branch を [`ifhito/ifhito`](https://github.com/ifhito/ifhito) に作成
 - 🟢 **1 commit** を [`ifhito/ai-first-langs-bench-repo`](https://github.com/ifhito/ai-first-langs-bench-repo) に push
 - ✨ 新しい branch を [`ifhito/ai-first-langs-bench-repo`](https://github.com/ifhito/ai-first-langs-bench-repo) に作成
 - 📋 Issue #62 を **labeled** — [`ifhito/simple-coffee-collections`](https://github.com/ifhito/simple-coffee-collections)
-- 📋 Issue #62 を **opened** — [`ifhito/simple-coffee-collections`](https://github.com/ifhito/simple-coffee-collections)
 <!-- ACTIVITY:END -->
 
 ---
@@ -39,11 +39,11 @@
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
 ```text
-TypeScript  ████████████████░░░░░░   70.8%
+TypeScript  ████████████████░░░░░░   70.6%
 CSS         ██░░░░░░░░░░░░░░░░░░░░    8.3%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░    5.3%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░    4.9%
-Python      ░░░░░░░░░░░░░░░░░░░░░░    2.2%
+Python      █░░░░░░░░░░░░░░░░░░░░░    2.5%
 MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    1.9%
 HTML        ░░░░░░░░░░░░░░░░░░░░░░    1.7%
 HCL         ░░░░░░░░░░░░░░░░░░░░░░    1.4%
@@ -55,7 +55,13 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 ### 📊 GitHub Stats
 <!-- 自前計算(GitHub API集計)。外部SVGの503に影響されない -->
 <!-- STATS:START -->
-_(自動更新されます)_
+```text
+📦 Public repos      54
+⭐ Total stars        0
+🍴 Total forks        0
+👥 Followers          7
+➡️  Following        8
+```
 <!-- STATS:END -->
 
 <p align="center">
@@ -67,6 +73,6 @@ _(自動更新されます)_
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-06-09 21:12 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-06-09 21:22 JST** — 🌆 夕方のハック
 <!-- CLOCK:END -->
 </p>
