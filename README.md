@@ -1,10 +1,9 @@
 <!--
-  これはプロフィールREADMEです。リポジトリ名を「あなたのユーザー名」と同じにすると
+  これはプロフィールREADMEです。リポジトリ名を ifhito にすると
   GitHubプロフィールのトップに表示されます。
-  __USERNAME__ を自分のGitHubユーザー名に一括置換してください。
 -->
 
-<h1 align="center">こんにちは、__USERNAME__ です 👋</h1>
+<h1 align="center">こんにちは、ifhito です 👋</h1>
 
 <p align="center">
   <!-- タイピングアニメーション(設定不要・自動表示) -->
@@ -12,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=__USERNAME__&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ifhito&style=flat-square&color=blue" alt="profile views" />
 </p>
 
 ---
@@ -32,15 +31,23 @@ _(自動更新されます)_
 
 ---
 
+### 🧬 使用言語の内訳（全リポジトリ実測）
+<!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
+<!-- LANGS:START -->
+_(自動更新されます)_
+<!-- LANGS:END -->
+
+---
+
 ### 📊 GitHub Stats
 <!-- 外部サービス(github-readme-stats)が動的にSVGを生成。トークン不要 -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=__USERNAME__&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=__USERNAME__&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ifhito&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifhito&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=__USERNAME__&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifhito&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ---

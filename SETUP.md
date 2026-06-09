@@ -1,26 +1,23 @@
 # 動的プロフィールREADME セットアップ手順
 
-## 1. ユーザー名を置換
-`__USERNAME__` を自分のGitHubユーザー名に一括置換する（macOS）:
+## 1. ユーザー名（設定済み: `ifhito`）
+README・ワークフローは `ifhito` 向けに置換済み。別名にしたい場合のみ:
 
 ```bash
 cd ~/Documents/github-profile-readme
-grep -rl __USERNAME__ . | xargs sed -i '' 's/__USERNAME__/あなたのユーザー名/g'
+grep -rl ifhito . | xargs sed -i '' 's/ifhito/新しいユーザー名/g'
 ```
 
 ## 2. 「自分専用リポジトリ」を作る
-GitHubで **リポジトリ名を自分のユーザー名と完全一致** させて新規作成する
-（例: ユーザー名が `tanaka` なら リポジトリ名も `tanaka`）。これがプロフィールREADMEの条件。
+GitHubで **リポジトリ名 `ifhito`**（ユーザー名と完全一致）で新規作成する。
+これがプロフィールREADMEの条件。
 - Public で作成
 - README/`.gitignore`/license は **追加しない**（空で作る）
 
 ## 3. push する
 ```bash
 cd ~/Documents/github-profile-readme
-git init -b main
-git add .
-git commit -m "feat: dynamic profile README"
-git remote add origin git@github.com:あなたのユーザー名/あなたのユーザー名.git
+git remote add origin git@github.com:ifhito/ifhito.git
 git push -u origin main
 ```
 

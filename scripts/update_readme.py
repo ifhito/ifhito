@@ -119,6 +119,40 @@ def render_tip() -> str:
     return f"> 💡 **今日のTips** — {tip}"
 
 
+def render_langs() -> str:
+    """全リポジトリの言語バイト数を合算し、比率バーを描く。"""
+    repos = gh_get(f"/users/{USERNAME}/repos?per_page=100&type=owner&sort=pushed") or []
+    totals: dict[str, int] = {}
+
+    # レート制限と実行時間のため、最近 push した上位30リポに絞る
+    for repo in repos[:30]:
+        if repo.get("fork"):
+            continue
+        full = repo.get("full_name")
+        if not full:
+            continue
+        langs = gh_get(f"/repos/{full}/languages") or {}
+        for lang, by in langs.items():
+            totals[lang] = totals.get(lang, 0) + int(by)
+
+    if not totals:
+        return "_言語データを取得できませんでした_ 🤔"
+
+    grand = sum(totals.values())
+    top = sorted(totals.items(), key=lambda kv: kv[1], reverse=True)[:8]
+
+    bar_width = 22
+    lines = ["```text"]
+    name_w = max(len(name) for name, _ in top)
+    for name, by in top:
+        pct = by / grand * 100
+        filled = round(pct / 100 * bar_width)
+        bar = "█" * filled + "░" * (bar_width - filled)
+        lines.append(f"{name.ljust(name_w)}  {bar}  {pct:5.1f}%")
+    lines.append("```")
+    return "\n".join(lines)
+
+
 def render_clock() -> str:
     now = datetime.now(JST)
     hour = now.hour
@@ -158,6 +192,7 @@ def main() -> int:
         text = fh.read()
 
     text = replace_section(text, "ACTIVITY", render_activity())
+    text = replace_section(text, "LANGS", render_langs())
     text = replace_section(text, "TIP", render_tip())
     text = replace_section(text, "CLOCK", render_clock())
 
