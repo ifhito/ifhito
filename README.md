@@ -12,6 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ifhito&style=flat-square&color=blue" alt="profile views" />
+  <a href="https://zenn.dev/ifhito"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn" /></a>
 </p>
 
 ---
