@@ -20,7 +20,7 @@
 ### 🙋 About me
 
 - 🛠️ **Full Stack Engineer** — フロントからインフラまで一気通貫で作ります
-- 🧬 普段は **TypeScript / Ruby / Python**、インフラは **Terraform(HCL)**
+- 🧬 普段は **TypeScript / Ruby**、インフラは **Terraform(HCL)**
 - ♨️ サウナ、☕ コーヒー、🍔 ハンバーガーで動いています
 - 📊 「測ってから語る」が信条（ベンチマーク・計測ずき）
 
