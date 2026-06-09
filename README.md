@@ -53,14 +53,14 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 ---
 
 ### 📊 GitHub Stats
-<!-- 外部サービス(github-readme-stats)が動的にSVGを生成。トークン不要 -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ifhito&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifhito&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
+<!-- 自前計算(GitHub API集計)。外部SVGの503に影響されない -->
+<!-- STATS:START -->
+_(自動更新されます)_
+<!-- STATS:END -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifhito&theme=tokyonight&hide_border=true" alt="streak" />
+  <!-- streakは別ホスト(demolab)で安定。テーマ変更可 -->
+  <img src="https://streak-stats.demolab.com/?user=ifhito&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ---

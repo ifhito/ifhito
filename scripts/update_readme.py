@@ -119,6 +119,33 @@ def render_tip() -> str:
     return f"> 💡 **今日のTips** — {tip}"
 
 
+def render_stats() -> str:
+    """ユーザー情報と全リポを集計し、自前の統計カードを描く(外部SVG非依存)。"""
+    user = gh_get(f"/users/{USERNAME}") or {}
+    repos = gh_get(f"/users/{USERNAME}/repos?per_page=100&type=owner") or []
+
+    own = [r for r in repos if not r.get("fork")]
+    stars = sum(r.get("stargazers_count", 0) for r in own)
+    forks = sum(r.get("forks_count", 0) for r in own)
+    public_repos = user.get("public_repos", len(repos))
+    followers = user.get("followers", 0)
+    following = user.get("following", 0)
+
+    rows = [
+        ("📦 Public repos", public_repos),
+        ("⭐ Total stars", stars),
+        ("🍴 Total forks", forks),
+        ("👥 Followers", followers),
+        ("➡️  Following", following),
+    ]
+    label_w = max(len(label) for label, _ in rows)
+    lines = ["```text"]
+    for label, val in rows:
+        lines.append(f"{label.ljust(label_w)}  {val:>6,}")
+    lines.append("```")
+    return "\n".join(lines)
+
+
 def render_langs() -> str:
     """全リポジトリの言語バイト数を合算し、比率バーを描く。"""
     repos = gh_get(f"/users/{USERNAME}/repos?per_page=100&type=owner&sort=pushed") or []
@@ -192,6 +219,7 @@ def main() -> int:
         text = fh.read()
 
     text = replace_section(text, "ACTIVITY", render_activity())
+    text = replace_section(text, "STATS", render_stats())
     text = replace_section(text, "LANGS", render_langs())
     text = replace_section(text, "TIP", render_tip())
     text = replace_section(text, "CLOCK", render_clock())
