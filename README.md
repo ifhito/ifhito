@@ -7,12 +7,52 @@
 
 <p align="center">
   <!-- タイピングアニメーション(設定不要・自動表示) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=560&lines=Frontend%20Engineer%3B%E3%82%B5%E3%82%A6%E3%83%8A%20%E2%99%A8%EF%B8%8F%20%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E2%98%95%20%20%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%20%F0%9F%8D%94" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=560&lines=Full%20Stack%20Engineer%3B%E3%82%B5%E3%82%A6%E3%83%8A%20%E2%99%A8%EF%B8%8F%20%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E2%98%95%20%20%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%20%F0%9F%8D%94" alt="typing" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ifhito&style=flat-square&color=blue" alt="profile views" />
 </p>
+
+---
+
+### 🙋 About me
+
+- 🛠️ **Full Stack Engineer** — フロントからインフラまで一気通貫で作ります
+- 🧬 普段は **TypeScript / Ruby / Python**、インフラは **Terraform(HCL)**
+- ♨️ サウナ、☕ コーヒー、🍔 ハンバーガーで動いています
+- 📊 「測ってから語る」が信条（ベンチマーク・計測ずき）
+
+---
+
+### 🧰 Tech Stack
+<!-- shields.io の静的バッジ。API非依存なので常に表示される(503の影響を受けない) -->
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+
+**Infra / Tools**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -67,6 +107,18 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 <p align="center">
   <!-- streakは別ホスト(demolab)で安定。テーマ変更可 -->
   <img src="https://streak-stats.demolab.com/?user=ifhito&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+---
+
+### 🤝 Connect with me
+<!-- リンク先の your-handle / your-id を自分のアカウントに置き換えてください -->
+
+<p align="center">
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://zenn.dev/your-id"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" /></a>
+  <a href="https://qiita.com/your-id"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
+  <a href="https://github.com/ifhito"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
