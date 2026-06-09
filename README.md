@@ -59,9 +59,9 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
+- 🟢 **1 commit** を [`ifhito/ai-first-langs-bench-repo`](https://github.com/ifhito/ai-first-langs-bench-repo) に push
 - 🟢 **1 commit** を [`ifhito/ifhito`](https://github.com/ifhito/ifhito) に push
 - ✨ 新しい branch を [`ifhito/ifhito`](https://github.com/ifhito/ifhito) に作成
-- 🟢 **1 commit** を [`ifhito/ai-first-langs-bench-repo`](https://github.com/ifhito/ai-first-langs-bench-repo) に push
 - ✨ 新しい branch を [`ifhito/ai-first-langs-bench-repo`](https://github.com/ifhito/ai-first-langs-bench-repo) に作成
 - 📋 Issue #62 を **labeled** — [`ifhito/simple-coffee-collections`](https://github.com/ifhito/simple-coffee-collections)
 <!-- ACTIVITY:END -->
@@ -70,7 +70,7 @@
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `git commit --amend --no-edit` で直前のコミットに変更をそっと追記できる。
+> 💡 **今日のTips** — `git switch -c feat/x` は `checkout -b` の現代的な別名。意図が読みやすい。
 <!-- TIP:END -->
 
 ---
@@ -113,6 +113,6 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-06-09 21:33 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-06-10 04:58 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
