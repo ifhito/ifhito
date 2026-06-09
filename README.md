@@ -19,14 +19,18 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
-_(初回ワークフロー実行で自動的に埋まります)_
+- ✨ 新しい branch を [`ifhito/ifhito`](https://github.com/ifhito/ifhito) に作成
+- 🟢 **1 commit** を [`ifhito/ai-first-langs-bench-repo`](https://github.com/ifhito/ai-first-langs-bench-repo) に push
+- ✨ 新しい branch を [`ifhito/ai-first-langs-bench-repo`](https://github.com/ifhito/ai-first-langs-bench-repo) に作成
+- 📋 Issue #62 を **labeled** — [`ifhito/simple-coffee-collections`](https://github.com/ifhito/simple-coffee-collections)
+- 📋 Issue #62 を **opened** — [`ifhito/simple-coffee-collections`](https://github.com/ifhito/simple-coffee-collections)
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-_(自動更新されます)_
+> 💡 **今日のTips** — `git commit --amend --no-edit` で直前のコミットに変更をそっと追記できる。
 <!-- TIP:END -->
 
 ---
@@ -34,7 +38,16 @@ _(自動更新されます)_
 ### 🧬 使用言語の内訳（全リポジトリ実測）
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
-_(自動更新されます)_
+```text
+TypeScript  ████████████████░░░░░░   70.8%
+CSS         ██░░░░░░░░░░░░░░░░░░░░    8.3%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░    5.3%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░    4.9%
+Python      ░░░░░░░░░░░░░░░░░░░░░░    2.2%
+MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    1.9%
+HTML        ░░░░░░░░░░░░░░░░░░░░░░    1.7%
+HCL         ░░░░░░░░░░░░░░░░░░░░░░    1.4%
+```
 <!-- LANGS:END -->
 
 ---
@@ -54,6 +67,6 @@ _(自動更新されます)_
 
 <p align="center">
   <!-- CLOCK:START -->
-  🕒 最終更新: _(自動)_
-  <!-- CLOCK:END -->
+🕒 最終更新: **2026-06-09 21:12 JST** — 🌆 夕方のハック
+<!-- CLOCK:END -->
 </p>
