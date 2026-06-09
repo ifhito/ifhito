@@ -111,18 +111,6 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 
 ---
 
-### 🤝 Connect with me
-<!-- リンク先の your-handle / your-id を自分のアカウントに置き換えてください -->
-
-<p align="center">
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://zenn.dev/your-id"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" /></a>
-  <a href="https://qiita.com/your-id"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
-  <a href="https://github.com/ifhito"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
----
-
 <p align="center">
   <!-- CLOCK:START -->
 🕒 最終更新: **2026-06-09 21:27 JST** — 🌆 夕方のハック
