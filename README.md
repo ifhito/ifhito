@@ -61,15 +61,13 @@
 <!-- ACTIVITY:START -->
 - 🟢 **1 commit** を [`ifhito/ai-first-langs-bench-repo`](https://github.com/ifhito/ai-first-langs-bench-repo) に push
 - 🟢 **1 commit** を [`ifhito/ifhito`](https://github.com/ifhito/ifhito) に push
-- ✨ 新しい branch を [`ifhito/ifhito`](https://github.com/ifhito/ifhito) に作成
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `curl -w '%{time_total}
-' -o /dev/null -s URL` でリクエスト時間だけ測れる。
+> 💡 **今日のTips** — `code --diff a b` で VS Code を差分ビューアとして単発起動できる。
 <!-- TIP:END -->
 
 ---
@@ -112,6 +110,6 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-07-09 23:34 JST** — 🌙 深夜の実装(ほどほどに)
+🕒 最終更新: **2026-07-10 04:24 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
