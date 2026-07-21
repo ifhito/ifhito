@@ -66,8 +66,7 @@
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `curl -w '%{time_total}
-' -o /dev/null -s URL` でリクエスト時間だけ測れる。
+> 💡 **今日のTips** — `code --diff a b` で VS Code を差分ビューアとして単発起動できる。
 <!-- TIP:END -->
 
 ---
@@ -96,7 +95,7 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 📦 Public repos      54
 ⭐ Total stars        0
 🍴 Total forks        0
-👥 Followers          7
+👥 Followers          9
 ➡️  Following        8
 ```
 <!-- STATS:END -->
@@ -110,6 +109,6 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-07-21 22:19 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-07-22 04:05 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
