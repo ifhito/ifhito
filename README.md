@@ -66,7 +66,7 @@
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `git log --oneline --graph --all` でブランチの分岐を俯瞰できる。
+> 💡 **今日のTips** — `set -euo pipefail` を bash スクリプト先頭に置くと失敗を早期検知できる。
 <!-- TIP:END -->
 
 ---
@@ -95,7 +95,7 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 📦 Public repos      54
 ⭐ Total stars        0
 🍴 Total forks        0
-👥 Followers          9
+👥 Followers          8
 ➡️  Following        8
 ```
 <!-- STATS:END -->
@@ -109,6 +109,6 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-08-04 22:50 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-08-05 04:19 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
