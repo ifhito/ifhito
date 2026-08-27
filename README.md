@@ -66,7 +66,7 @@
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `code --diff a b` で VS Code を差分ビューアとして単発起動できる。
+> 💡 **今日のTips** — `git log --oneline --graph --all` でブランチの分岐を俯瞰できる。
 <!-- TIP:END -->
 
 ---
@@ -95,7 +95,7 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 📦 Public repos      54
 ⭐ Total stars        0
 🍴 Total forks        0
-👥 Followers          9
+👥 Followers          8
 ➡️  Following        8
 ```
 <!-- STATS:END -->
@@ -109,6 +109,6 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-08-27 14:57 JST** — 💻 集中タイム
+🕒 最終更新: **2026-08-28 02:16 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
