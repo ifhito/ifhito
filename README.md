@@ -59,11 +59,11 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
-- ✨ 新しい branch を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に作成
 - 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
-- 🔀 PR #19 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #18 を **labeled** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #18 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #21 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #20 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #19 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #9 を **closed** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
@@ -79,14 +79,14 @@
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
 ```text
-TypeScript  ████████████████░░░░░░   70.6%
-CSS         ██░░░░░░░░░░░░░░░░░░░░    8.3%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░    5.3%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░    4.9%
+TypeScript  ███████████████░░░░░░░   70.0%
+CSS         ██░░░░░░░░░░░░░░░░░░░░    8.2%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░    5.2%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░    4.8%
 Python      █░░░░░░░░░░░░░░░░░░░░░    2.6%
 MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    1.9%
 HTML        ░░░░░░░░░░░░░░░░░░░░░░    1.7%
-HCL         ░░░░░░░░░░░░░░░░░░░░░░    1.4%
+HCL         ░░░░░░░░░░░░░░░░░░░░░░    1.3%
 ```
 <!-- LANGS:END -->
 
@@ -113,6 +113,6 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-09-18 05:46 JST** — ☀️ おはようコーディング
+🕒 最終更新: **2026-09-18 11:24 JST** — 💻 集中タイム
 <!-- CLOCK:END -->
 </p>
