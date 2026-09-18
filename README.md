@@ -59,18 +59,19 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
-- 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
-- 🔀 PR #24 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 - ✨ 新しい branch を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に作成
-- 🔀 PR #23 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #22 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #27 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
+- 🔀 PR #26 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #25 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `python -m http.server` で今いるディレクトリを即席Webサーバに。
+> 💡 **今日のTips** — `curl -w '%{time_total}
+' -o /dev/null -s URL` でリクエスト時間だけ測れる。
 <!-- TIP:END -->
 
 ---
@@ -113,6 +114,6 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-09-18 19:17 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-09-19 00:30 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
