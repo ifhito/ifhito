@@ -59,18 +59,18 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
-- 🔀 PR #21 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #3 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #49 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #54 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 - 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
-- 🔀 PR #20 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #10 を **closed** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #54 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #53 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `code --diff a b` で VS Code を差分ビューアとして単発起動できる。
+> 💡 **今日のTips** — `git log --oneline --graph --all` でブランチの分岐を俯瞰できる。
 <!-- TIP:END -->
 
 ---
@@ -79,14 +79,14 @@
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
 ```text
-TypeScript  ███████████████░░░░░░░   67.1%
-CSS         ██░░░░░░░░░░░░░░░░░░░░    8.1%
-Ruby        ██░░░░░░░░░░░░░░░░░░░░    7.6%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░    5.2%
-Python      █░░░░░░░░░░░░░░░░░░░░░    2.7%
-MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    1.8%
-HTML        ░░░░░░░░░░░░░░░░░░░░░░    1.6%
-HCL         ░░░░░░░░░░░░░░░░░░░░░░    1.3%
+TypeScript  █████████████░░░░░░░░░   58.8%
+Go          ████░░░░░░░░░░░░░░░░░░   18.9%
+CSS         ██░░░░░░░░░░░░░░░░░░░░    7.1%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░    4.5%
+Python      █░░░░░░░░░░░░░░░░░░░░░    2.4%
+MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    1.6%
+Ruby        ░░░░░░░░░░░░░░░░░░░░░░    1.4%
+HTML        ░░░░░░░░░░░░░░░░░░░░░░    1.4%
 ```
 <!-- LANGS:END -->
 
@@ -113,6 +113,6 @@ HCL         ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-09-20 19:20 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-09-21 00:08 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
