@@ -59,11 +59,11 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
-- ✨ 新しい branch を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に作成
-- 🔀 PR #72 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
-- 🔀 PR #71 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #70 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #119 を **labeled** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #119 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #113 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #104 を **closed** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #118 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
@@ -79,14 +79,14 @@
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
 ```text
-TypeScript  ████████████░░░░░░░░░░   56.3%
-Go          █████░░░░░░░░░░░░░░░░░   22.3%
-CSS         █░░░░░░░░░░░░░░░░░░░░░    6.8%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░    4.3%
-Python      █░░░░░░░░░░░░░░░░░░░░░    2.4%
-MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    1.5%
-Ruby        ░░░░░░░░░░░░░░░░░░░░░░    1.4%
-HTML        ░░░░░░░░░░░░░░░░░░░░░░    1.3%
+TypeScript  ██████████░░░░░░░░░░░░   43.3%
+Go          ████████░░░░░░░░░░░░░░   37.2%
+CSS         █░░░░░░░░░░░░░░░░░░░░░    5.4%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░    4.1%
+Python      █░░░░░░░░░░░░░░░░░░░░░    2.8%
+HTML        █░░░░░░░░░░░░░░░░░░░░░    2.4%
+MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    1.1%
+Ruby        ░░░░░░░░░░░░░░░░░░░░░░    1.0%
 ```
 <!-- LANGS:END -->
 
@@ -113,6 +113,6 @@ HTML        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-09-21 11:31 JST** — 💻 集中タイム
+🕒 最終更新: **2026-09-21 20:33 JST** — 🌆 夕方のハック
 <!-- CLOCK:END -->
 </p>
