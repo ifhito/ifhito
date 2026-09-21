@@ -59,18 +59,18 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
-- 📋 Issue #119 を **labeled** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #119 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #113 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #104 を **closed** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #118 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- ✨ 新しい branch を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に作成
+- 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
+- 📋 Issue #101 を **closed** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #139 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #139 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `git log --oneline --graph --all` でブランチの分岐を俯瞰できる。
+> 💡 **今日のTips** — `set -euo pipefail` を bash スクリプト先頭に置くと失敗を早期検知できる。
 <!-- TIP:END -->
 
 ---
@@ -79,14 +79,14 @@
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
 ```text
-TypeScript  ██████████░░░░░░░░░░░░   43.3%
-Go          ████████░░░░░░░░░░░░░░   37.2%
-CSS         █░░░░░░░░░░░░░░░░░░░░░    5.4%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░    4.1%
-Python      █░░░░░░░░░░░░░░░░░░░░░    2.8%
-HTML        █░░░░░░░░░░░░░░░░░░░░░    2.4%
-MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    1.1%
-Ruby        ░░░░░░░░░░░░░░░░░░░░░░    1.0%
+TypeScript  ████████░░░░░░░░░░░░░░   35.9%
+Go          ████████░░░░░░░░░░░░░░   35.9%
+HTML        ███░░░░░░░░░░░░░░░░░░░   13.4%
+CSS         █░░░░░░░░░░░░░░░░░░░░░    4.7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░    3.8%
+Python      █░░░░░░░░░░░░░░░░░░░░░    2.3%
+MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    0.9%
+Ruby        ░░░░░░░░░░░░░░░░░░░░░░    0.8%
 ```
 <!-- LANGS:END -->
 
@@ -113,6 +113,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-09-21 20:33 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-09-22 02:30 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
