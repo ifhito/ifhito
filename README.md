@@ -59,18 +59,18 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
+- 🔀 PR #198 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- ✨ 新しい branch を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に作成
 - 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
-- 🔀 PR #189 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #189 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #188 を **labeled** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #188 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #196 を **closed** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #197 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `gh pr create --fill` でコミットからPR本文を自動生成。
+> 💡 **今日のTips** — `tldr <cmd>` は man より実例が早い。`tldr tar` で圧縮コマンドが即わかる。
 <!-- TIP:END -->
 
 ---
@@ -79,9 +79,9 @@
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
 ```text
-TypeScript  ████████░░░░░░░░░░░░░░   37.2%
-Go          ████████░░░░░░░░░░░░░░   36.9%
-HTML        ███░░░░░░░░░░░░░░░░░░░   12.2%
+TypeScript  ████████░░░░░░░░░░░░░░   37.3%
+Go          ████████░░░░░░░░░░░░░░   37.1%
+HTML        ███░░░░░░░░░░░░░░░░░░░   12.0%
 CSS         █░░░░░░░░░░░░░░░░░░░░░    4.7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░    3.3%
 Python      ░░░░░░░░░░░░░░░░░░░░░░    2.0%
@@ -113,6 +113,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-09-23 19:30 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-09-24 00:49 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
