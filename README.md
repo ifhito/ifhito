@@ -59,18 +59,18 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
-- 🔀 PR #222 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #221 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 - 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
-- 🔀 PR #221 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #220 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #233 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #232 を **labeled** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #232 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #231 を **labeled** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `tldr <cmd>` は man より実例が早い。`tldr tar` で圧縮コマンドが即わかる。
+> 💡 **今日のTips** — `git commit --amend --no-edit` で直前のコミットに変更をそっと追記できる。
 <!-- TIP:END -->
 
 ---
@@ -80,10 +80,10 @@
 <!-- LANGS:START -->
 ```text
 Go          ████████░░░░░░░░░░░░░░   37.7%
-TypeScript  ████████░░░░░░░░░░░░░░   37.2%
-HTML        ███░░░░░░░░░░░░░░░░░░░   11.8%
+TypeScript  ████████░░░░░░░░░░░░░░   37.1%
+HTML        ███░░░░░░░░░░░░░░░░░░░   11.7%
 CSS         █░░░░░░░░░░░░░░░░░░░░░    4.6%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░    3.3%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░    3.5%
 Python      ░░░░░░░░░░░░░░░░░░░░░░    2.0%
 MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    0.8%
 Ruby        ░░░░░░░░░░░░░░░░░░░░░░    0.7%
@@ -113,6 +113,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-09-24 19:48 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-09-25 01:11 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
