@@ -59,18 +59,18 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
-- 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
-- ✨ 新しい branch を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に作成
-- 🔀 PR #233 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #232 を **labeled** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #232 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #241 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #240 を **labeled** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #240 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #228 を **closed** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #237 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `git commit --amend --no-edit` で直前のコミットに変更をそっと追記できる。
+> 💡 **今日のTips** — `git switch -c feat/x` は `checkout -b` の現代的な別名。意図が読みやすい。
 <!-- TIP:END -->
 
 ---
@@ -79,12 +79,12 @@
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
 ```text
-Go          ████████░░░░░░░░░░░░░░   37.7%
-TypeScript  ████████░░░░░░░░░░░░░░   37.1%
+Go          ████████░░░░░░░░░░░░░░   37.3%
+TypeScript  ████████░░░░░░░░░░░░░░   37.2%
 HTML        ███░░░░░░░░░░░░░░░░░░░   11.7%
 CSS         █░░░░░░░░░░░░░░░░░░░░░    4.6%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░    3.5%
-Python      ░░░░░░░░░░░░░░░░░░░░░░    2.0%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░    3.6%
+Python      ░░░░░░░░░░░░░░░░░░░░░░    2.2%
 MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    0.8%
 Ruby        ░░░░░░░░░░░░░░░░░░░░░░    0.7%
 ```
@@ -113,6 +113,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-09-25 19:52 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-09-26 01:12 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
