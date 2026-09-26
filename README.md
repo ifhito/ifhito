@@ -59,15 +59,18 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
+- 🔀 PR #244 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 - 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
+- 🔀 PR #244 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 - 🟢 **1 commit** を [`ifhito/zenn-content`](https://github.com/ifhito/zenn-content) に push
+- 🔀 PR #243 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `git switch -c feat/x` は `checkout -b` の現代的な別名。意図が読みやすい。
+> 💡 **今日のTips** — `git bisect` は二分探索でバグ混入コミットを自動特定してくれる。
 <!-- TIP:END -->
 
 ---
@@ -76,13 +79,13 @@
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
 ```text
-Go          ████████░░░░░░░░░░░░░░   37.4%
-TypeScript  ████████░░░░░░░░░░░░░░   37.2%
-HTML        ███░░░░░░░░░░░░░░░░░░░   11.7%
+TypeScript  ████████░░░░░░░░░░░░░░   37.3%
+Go          ████████░░░░░░░░░░░░░░   37.2%
+HTML        ███░░░░░░░░░░░░░░░░░░░   11.8%
 CSS         █░░░░░░░░░░░░░░░░░░░░░    4.6%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░    3.6%
 Python      ░░░░░░░░░░░░░░░░░░░░░░    2.2%
-MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    0.8%
+MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    0.7%
 Ruby        ░░░░░░░░░░░░░░░░░░░░░░    0.7%
 ```
 <!-- LANGS:END -->
@@ -110,6 +113,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-09-26 19:33 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-09-27 00:25 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
