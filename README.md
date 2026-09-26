@@ -59,11 +59,10 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
-- ✨ 新しい branch を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に作成
+- 🔀 PR #1 を **opened** — [`ifhito/zenn-content`](https://github.com/ifhito/zenn-content)
+- ✨ 新しい branch を [`ifhito/zenn-content`](https://github.com/ifhito/zenn-content) に作成
+- 🟢 **1 commit** を [`ifhito/zenn-content`](https://github.com/ifhito/zenn-content) に push
 - 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
-- 🔀 PR #241 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #240 を **labeled** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #240 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
@@ -79,7 +78,7 @@
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
 ```text
-Go          ████████░░░░░░░░░░░░░░   37.3%
+Go          ████████░░░░░░░░░░░░░░   37.4%
 TypeScript  ████████░░░░░░░░░░░░░░   37.2%
 HTML        ███░░░░░░░░░░░░░░░░░░░   11.7%
 CSS         █░░░░░░░░░░░░░░░░░░░░░    4.6%
@@ -96,7 +95,7 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 <!-- 自前計算(GitHub API集計)。外部SVGの503に影響されない -->
 <!-- STATS:START -->
 ```text
-📦 Public repos      54
+📦 Public repos      55
 ⭐ Total stars        0
 🍴 Total forks        0
 👥 Followers          8
@@ -113,6 +112,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-09-26 05:54 JST** — ☀️ おはようコーディング
+🕒 最終更新: **2026-09-26 11:43 JST** — 💻 集中タイム
 <!-- CLOCK:END -->
 </p>
