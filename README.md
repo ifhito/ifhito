@@ -59,18 +59,18 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
+- 📋 Issue #247 を **closed** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #248 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #247 を **labeled** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 📋 Issue #247 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 - 🔀 PR #246 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #245 を **labeled** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #245 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #244 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #244 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `set -euo pipefail` を bash スクリプト先頭に置くと失敗を早期検知できる。
+> 💡 **今日のTips** — `gh pr create --fill` でコミットからPR本文を自動生成。
 <!-- TIP:END -->
 
 ---
@@ -79,8 +79,8 @@
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
 ```text
-TypeScript  ████████░░░░░░░░░░░░░░   37.3%
-Go          ████████░░░░░░░░░░░░░░   37.2%
+Go          ████████░░░░░░░░░░░░░░   37.3%
+TypeScript  ████████░░░░░░░░░░░░░░   37.2%
 HTML        ███░░░░░░░░░░░░░░░░░░░   11.8%
 CSS         █░░░░░░░░░░░░░░░░░░░░░    4.6%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░    3.6%
@@ -113,6 +113,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-10-16 19:23 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-10-17 00:49 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
