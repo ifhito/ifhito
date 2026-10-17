@@ -59,18 +59,18 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
+- 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
 - ✨ 新しい branch を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に作成
 - 🔀 PR #248 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 - 📋 Issue #247 を **closed** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 - 🔀 PR #248 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #247 を **labeled** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `gh pr create --fill` でコミットからPR本文を自動生成。
+> 💡 **今日のTips** — `tldr <cmd>` は man より実例が早い。`tldr tar` で圧縮コマンドが即わかる。
 <!-- TIP:END -->
 
 ---
@@ -113,6 +113,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-10-17 23:42 JST** — 🌙 深夜の実装(ほどほどに)
+🕒 最終更新: **2026-10-18 04:53 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
