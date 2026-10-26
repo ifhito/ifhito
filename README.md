@@ -59,18 +59,14 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
-- 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
-- ✨ 新しい branch を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に作成
-- 🔀 PR #248 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 📋 Issue #247 を **closed** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #248 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- _最近の公開アクティビティはまだありません_ 🌱
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `code --diff a b` で VS Code を差分ビューアとして単発起動できる。
+> 💡 **今日のTips** — `git log --oneline --graph --all` でブランチの分岐を俯瞰できる。
 <!-- TIP:END -->
 
 ---
@@ -113,6 +109,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-10-26 20:56 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-10-27 03:07 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
