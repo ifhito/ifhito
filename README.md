@@ -70,7 +70,8 @@
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `python -m http.server` で今いるディレクトリを即席Webサーバに。
+> 💡 **今日のTips** — `curl -w '%{time_total}
+' -o /dev/null -s URL` でリクエスト時間だけ測れる。
 <!-- TIP:END -->
 
 ---
@@ -113,6 +114,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-11-05 22:45 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-11-06 08:03 JST** — ☀️ おはようコーディング
 <!-- CLOCK:END -->
 </p>
