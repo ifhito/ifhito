@@ -59,10 +59,11 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
+- 🔀 PR #250 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #249 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #249 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 - 🔀 PR #64 を **merged** — [`ifhito/simple-coffee-collections`](https://github.com/ifhito/simple-coffee-collections)
 - 🔀 PR #64 を **opened** — [`ifhito/simple-coffee-collections`](https://github.com/ifhito/simple-coffee-collections)
-- 🔀 PR #63 を **merged** — [`ifhito/simple-coffee-collections`](https://github.com/ifhito/simple-coffee-collections)
-- 🔀 PR #63 を **opened** — [`ifhito/simple-coffee-collections`](https://github.com/ifhito/simple-coffee-collections)
 <!-- ACTIVITY:END -->
 
 ---
@@ -78,11 +79,11 @@
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
 ```text
-Go          ████████░░░░░░░░░░░░░░   37.3%
-TypeScript  ████████░░░░░░░░░░░░░░   37.2%
+TypeScript  ████████░░░░░░░░░░░░░░   37.4%
+Go          ████████░░░░░░░░░░░░░░   37.2%
 HTML        ███░░░░░░░░░░░░░░░░░░░   11.8%
 CSS         █░░░░░░░░░░░░░░░░░░░░░    4.6%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░    3.6%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░    3.5%
 Python      ░░░░░░░░░░░░░░░░░░░░░░    2.2%
 MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    0.7%
 Ruby        ░░░░░░░░░░░░░░░░░░░░░░    0.7%
@@ -112,6 +113,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-11-21 08:30 JST** — ☀️ おはようコーディング
+🕒 最終更新: **2026-11-21 13:55 JST** — 💻 集中タイム
 <!-- CLOCK:END -->
 </p>
