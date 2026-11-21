@@ -59,8 +59,8 @@
 ### 🔥 最近のアクティビティ
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
-- ✨ 新しい branch を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に作成
 - 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
+- ✨ 新しい branch を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に作成
 - 🔀 PR #253 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 - 🔀 PR #253 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 - 🔀 PR #252 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
@@ -70,7 +70,7 @@
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `set -euo pipefail` を bash スクリプト先頭に置くと失敗を早期検知できる。
+> 💡 **今日のTips** — `gh pr create --fill` でコミットからPR本文を自動生成。
 <!-- TIP:END -->
 
 ---
@@ -113,6 +113,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-11-21 22:56 JST** — 🌆 夕方のハック
+🕒 最終更新: **2026-11-22 07:37 JST** — ☀️ おはようコーディング
 <!-- CLOCK:END -->
 </p>
