@@ -60,17 +60,17 @@
 <!-- ここは GitHub Actions が自動更新します -->
 <!-- ACTIVITY:START -->
 - ✨ 新しい branch を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に作成
+- 🔀 PR #254 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
+- 🔀 PR #254 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 - 🟢 **1 commit** を [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation) に push
 - 🔀 PR #253 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #253 を **opened** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
-- 🔀 PR #252 を **merged** — [`ifhito/hamburger_evaluation`](https://github.com/ifhito/hamburger_evaluation)
 <!-- ACTIVITY:END -->
 
 ---
 
 ### 💡 今日のひとこと
 <!-- TIP:START -->
-> 💡 **今日のTips** — `tldr <cmd>` は man より実例が早い。`tldr tar` で圧縮コマンドが即わかる。
+> 💡 **今日のTips** — `git commit --amend --no-edit` で直前のコミットに変更をそっと追記できる。
 <!-- TIP:END -->
 
 ---
@@ -79,12 +79,12 @@
 <!-- 各リポの言語バイト数を合算した実測値。Actions が自動更新します -->
 <!-- LANGS:START -->
 ```text
-Go          ████████░░░░░░░░░░░░░░   38.0%
+Go          ████████░░░░░░░░░░░░░░   37.7%
 TypeScript  ████████░░░░░░░░░░░░░░   37.1%
 HTML        ███░░░░░░░░░░░░░░░░░░░   11.5%
 CSS         █░░░░░░░░░░░░░░░░░░░░░    4.5%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░    3.5%
-Python      ░░░░░░░░░░░░░░░░░░░░░░    2.2%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░    3.8%
+Python      ░░░░░░░░░░░░░░░░░░░░░░    2.1%
 MoonBit     ░░░░░░░░░░░░░░░░░░░░░░    0.7%
 Ruby        ░░░░░░░░░░░░░░░░░░░░░░    0.7%
 ```
@@ -113,6 +113,6 @@ Ruby        ░░░░░░░░░░░░░░░░░░░░░░  
 
 <p align="center">
   <!-- CLOCK:START -->
-🕒 最終更新: **2026-11-23 13:54 JST** — 💻 集中タイム
+🕒 最終更新: **2026-11-24 01:55 JST** — 🌙 深夜の実装(ほどほどに)
 <!-- CLOCK:END -->
 </p>
